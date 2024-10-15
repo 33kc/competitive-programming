@@ -2,11 +2,11 @@
 
 --------------------------------------------------------
 
-0 = have to finish (mostly just empty)
-1 = in the middle
-✅ = finished entirely
-{} = personal reference
-() = extra info
+0 = have to finish (mostly just empty)<Br>
+1 = in the middle<Br>
+✅ = finished entirely<Br>
+{} = personal reference<Br>
+() = extra info<Br>
 
 -------------------------------------------------------------
 
