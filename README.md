@@ -1,143 +1,143 @@
-[ what i'm planning to be learning in cp, roadmap you can say]
+# what i'm going to do in cp
 
---------------------------------------------------------
+- **0** = Have to finish (mostly just empty)  <Br>
+- **1** = In the middle  <Br>
+- **✅** = Finished entirely  <Br>
+- **{}** = Personal reference  <Br>
+- **()** = Extra info  <Br>
 
-0 = have to finish (mostly just empty)<Br>
-1 = in the middle<Br>
-✅ = finished entirely<Br>
-{} = personal reference<Br>
-() = extra info<Br>
+---
 
--------------------------------------------------------------
+### Starting
 
-- starting
+- [] Pattern printing problems  
+- [] Time complexity analysis  
+- [] Linear search / circular array representation  
+- [1] Palindrome and other numbers (for basic number problems)  
+- [] Hashing problems (frequency counting)  
+- [] Prefix sum problems (1D, 2D)  
+- [] Sliding window technique {better understanding needed}  
 
-- [] pattern printing problems
-- [] time complexity analysis
-- [] linear search/circular array representation
-- [1] palindrome and other numbers, for basic number problems
-- [] hashing problems (frequency counting)
-- [] prefix sum problems (1d, 2d)
-- [] sliding window technique {better understanding needed}
+---
 
----------------------------------------------------------------
+### Basics of Number Theory
 
-- basics of number theory
+- [1] Binary search  
+- [] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
+- [] Linear Diophantine equation  
+- [] Checking prime in \(\sqrt{n}\) complexity  
+- [] Sieve of Eratosthenes  
+- [] Euler's Totient Function  
+- [] Fermat's Little Theorem  
 
-- [1] binary search
-- [] gcd of two numbers in logarithmic time (euclidean and extended euclidean algorithm)
-- [] linear diphantine equation
-- [] checking prime in sqrt of n complexity
-- [] sieve of eratothenes
-- [] euler totent function
-- [] fermat little theorum 
+---
 
--- more advanced
+### More Advanced Topics
 
-- [] finding x^n in log[n]
-- [] modular arithmetic
-- [] modular inverse of a number
-- [] modular exponentiation
-- [] chinese remainder theorem (I DO NOT UNDERSTAND THIS HEPL)
-- [] finding nCr/nPr for queries (constant time)
-- [] inclusion exclusion principle (combinatorics problem)
+- [] Finding \(x^n\) in \(\log[n]\)  
+- [] Modular arithmetic  
+- [] Modular inverse of a number  
+- [] Modular exponentiation  
+- [] Chinese Remainder Theorem (I DO NOT UNDERSTAND THIS, HELP!)  
+- [] Finding \(nCr/nPr\) for queries (constant time)  
+- [] Inclusion-exclusion principle (combinatorics problem)  
 
--------------------------------------------------------------
+---
 
-- general 
+### General Topics
 
-- [] sorting algorithms (bubble, selection, insertion)
-- [] solve a heck a ton of problems on these to get familiar and because.. you have nothing to do? yeah that works
-- [] problems related to two pointer approach 
-- [] bit manipulation (lshift, rshift, xor, or, and, set bit, msb etc)
-- [] power set of given array or string using bit
-- [] num of subarrays with xor as zero (not algorithm) (interesting problem tho)
-- [] problems related to greedy algorithm (bro what are these algorithm names)
-- [] kadane's algorithm
-- [] learn recursion
+- [] Sorting algorithms (bubble, selection, insertion)  
+- [] Solve a heck of a ton of problems on these to get familiar  
+- [] Problems related to the two-pointer approach  
+- [] Bit manipulation (lshift, rshift, xor, or, and, set bit, MSB, etc.)  
+- [] Power set of a given array or string using bit  
+- [] Number of subarrays with XOR as zero (not an algorithm, but interesting problem)  
+- [] Problems related to greedy algorithms (bro, what are these algorithm names?)  
+- [] Kadane's algorithm  
+- [] Learn recursion  
 
--------------------------------------------------------------
+---
 
-- after you learn recursion, HERE'S MORE STUFF TO DO EHEHEHEHEHHE
+### After Learning Recursion
 
-- [] in the middle algorithm, solve problems related to it
-- [] divide and conquer problems (codeforces pretty nice for this apparently)
-- [] next greater element and next smaller element using stack
-- [] MORE problems related to parenthesis
-- [] largest rectangular area in a histogram 
-- [] solve MORE problems related with heap priority queue
+- [] In-the-middle algorithms: Solve problems related to it  
+- [] Divide and conquer problems (Codeforces has a lot of nice ones)  
+- [] Next greater element and next smaller element using a stack  
+- [] More problems related to parentheses  
+- [] Largest rectangular area in a histogram  
+- [] Solve more problems related to heap priority queue  
 
--------------------------------------------------------------
+---
 
-- string algorithms (a bit advanced so just do when you feel like it [my personal guess <- i will never finish this])
+### String Algorithms
 
-- [] rolling hash functions on strings
-- [] rabin karp algo
-- [] prefix function
-- [] kmp algo
-- [] z-function
-- [] manchers' algorithm
+*(A bit advanced, so just do when you feel like it [my personal guess <- I will never finish this])*
 
--------------------------------------------------------------
+- [] Rolling hash functions on strings  
+- [] Rabin-Karp algorithm  
+- [] Prefix function  
+- [] KMP algorithm  
+- [] Z-function  
+- [] Manacher's algorithm  
 
-- tree algorithms
+---
 
-- [] graph representation
-- [] dfs/bfs traversal in graph/tree
-- [] basic stuff (diamter, height of tree, level of tree etc)
-- [] euler tour of tree 
-- [] finding lca using euler tour, and binary lifting
-- [] distance between two nodes
-- [] subtree problems (spoj)
+### Tree Algorithms
 
--------------------------------------------------------------
+- [] Graph representation  
+- [] DFS/BFS traversal in graph/tree  
+- [] Basic stuff (diameter, height of tree, level of tree, etc.)  
+- [] Euler tour of a tree  
+- [] Finding LCA using Euler tour and binary lifting  
+- [] Distance between two nodes  
+- [] Subtree problems (SPOJ)  
 
-- graphsssssssssssssssssssss
+---
 
-- [] connected components
-- [] topological sort
-- [] cycle detection in graph
-- [] bipartite check in graph
-- [] SCC using Kosaraju’s algorithm 
-- [] dijkstra’s algorithm 
-- [] bellman ford algorithm 
-- [] bridges in graphs 
-- [] articulation point in a graph 
-- [] minimum spanning tree using kruskal’s Algo 
-- [] prim’s algorithm 
-- [] 0/1 BFS(a big saviour) 
-- [] Learn Finding Bridges Online
- 
--------------------------------------------------------------
+### Graph Algorithms
 
-- dynamic programming
+- [] Connected components  
+- [] Topological sort  
+- [] Cycle detection in graphs  
+- [] Bipartite check in graphs  
+- [] SCC using Kosaraju’s algorithm  
+- [] Dijkstra’s algorithm  
+- [] Bellman-Ford algorithm  
+- [] Bridges in graphs  
+- [] Articulation point in a graph  
+- [] Minimum spanning tree using Kruskal’s algorithm  
+- [] Prim’s algorithm  
+- [] 0/1 BFS (a big savior)  
+- [] Learn finding bridges online  
 
-- [] solve all standard problems on DP from GFG
-- [] solve the AtCoder educational contests on ydnamic programming
-- [] solve problems from SPOJ
-- [] google dynamic programming practice problem codeforces
-- [] understand how to write recurrence for Digit DP(digit dynamic progg) and solve problems 
-- [] read about DP with Bitmasks and solve problems
-- [] DP on trees
-- [] SOS DP
+---
 
--------------------------------------------------------------
+### Dynamic Programming
 
-- range query algorithms
+- [] Solve all standard problems on DP from GFG  
+- [] Solve AtCoder educational contests on dynamic programming  
+- [] Solve problems from SPOJ  
+- [] Google dynamic programming practice problems on Codeforces  
+- [] Understand how to write recurrence for Digit DP (digit dynamic programming) and solve problems  
+- [] Read about DP with bitmasks and solve problems  
+- [] DP on trees  
+- [] SOS DP  
 
-- [] sparse table
-- [] fenwick tree and binary lifting on fenwick tree, solve problems
-- [] matrix exponentiation(problems) 
-- [] sqrt decomposition technique
-- [] update and querry operations 
-- [] mo's algorithm 
-- [] mo's algorithm on trees 
-- [] segment tree
-- [] lazy propagation on segment trees 
+---
 
--------------------------------------------------------------
+### Range Query Algorithms
 
+- [] Sparse table  
+- [] Fenwick tree and binary lifting on Fenwick tree, solve problems  
+- [] Matrix exponentiation (problems)  
+- [] Sqrt decomposition technique  
+- [] Update and query operations  
+- [] Mo's algorithm  
+- [] Mo's algorithm on trees  
+- [] Segment tree  
+- [] Lazy propagation on segment trees  
 
-it is 15/10/2024 right now
+---
 
-I AM NEVER FINISHING THIS :sob:
+**it is 15/10/2024 at the time i'm making this roadmap for myself**  
+**I AM NEVER FINISHING THIS BRUHH 😭**
