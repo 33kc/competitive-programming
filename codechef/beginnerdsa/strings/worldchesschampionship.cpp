@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_map>
 using namespace std;
-int main() 
+int main()                                                   
 {
     int T;
     cin >> T;  
