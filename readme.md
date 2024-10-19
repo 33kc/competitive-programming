@@ -11,7 +11,7 @@
 ### Starting
 
 - [1] Pattern printing problems  
-- [] Time complexity analysis  
+- [1] Time complexity analysis  
 - [] Linear search / circular array representation  
 - [1] Palindrome and other numbers (for basic number problems)  
 - [] Hashing problems (frequency counting)  
