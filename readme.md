@@ -13,7 +13,7 @@
 - [1] Pattern printing problems  
 - [1] Time complexity analysis  
 - [] Linear search / circular array representation  
-- [1] Palindrome and other numbers (for basic number problems)  
+- [✅] Palindrome and other numbers (for basic number problems)  
 - [] Hashing problems (frequency counting)  
 - [] Prefix sum problems (1D, 2D)  
 - [] Sliding window technique {better understanding needed}  
