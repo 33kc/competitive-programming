@@ -12,7 +12,7 @@
 
 - [1] Pattern printing problems  
 - [1] Time complexity analysis  
-- [] Linear search / circular array representation  
+- [1] Linear search / circular array representation  
 - [✅] Palindrome and other numbers (for basic number problems)  
 - [] Hashing problems (frequency counting)  
 - [] Prefix sum problems (1D, 2D)  
