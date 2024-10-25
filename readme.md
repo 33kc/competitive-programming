@@ -23,7 +23,7 @@
 ### Basics of Number Theory
 
 - [1] Binary search  
-- [] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
+- [1] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
 - [] Linear Diophantine equation  
 - [] Checking prime in \(\sqrt{n}\) complexity  
 - [] Sieve of Eratosthenes  
