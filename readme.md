@@ -28,7 +28,7 @@
 - [] Checking prime in \(\sqrt{n}\) complexity  
 - [] Sieve of Eratosthenes  
 - [] Euler's Totient Function  
-- [] Fermat's Little Theorem  
+- [1] Fermat's Little Theorem  
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### General Topics
 
-- [] Sorting algorithms (bubble, selection, insertion)  
+- [1] Sorting algorithms (bubble, selection, insertion)  
 - [] Solve a heck of a ton of problems on these to get familiar  
 - [] Problems related to the two-pointer approach  
 - [] Bit manipulation (lshift, rshift, xor, or, and, set bit, MSB, etc.)  
