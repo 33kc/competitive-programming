@@ -52,9 +52,9 @@
 - [] Bit manipulation (lshift, rshift, xor, or, and, set bit, MSB, etc.)  
 - [] Power set of a given array or string using bit  
 - [] Number of subarrays with XOR as zero (not an algorithm, but interesting problem)  
-- [] Problems related to greedy algorithms (bro, what are these algorithm names?)  
+- [] Problems related to greedy algorithm 
 - [] Kadane's algorithm  
-- [] Learn recursion  
+- [1] Learn recursion  
 
 ---
 
