@@ -15,7 +15,7 @@
 - [1] Linear search / circular array representation  
 - [✅] Palindrome and other numbers (for basic number problems)  
 - [1] Hashing problems (frequency counting)  
-- [1] Prefix sum problems (1D, 2D)  
+- [✅] Prefix sum problems (1D, 2D)  
 - [1] Sliding window technique {better understanding needed}  
 
 ---
