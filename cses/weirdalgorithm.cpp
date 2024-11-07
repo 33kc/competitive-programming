@@ -3,8 +3,7 @@ using namespace std;
  
 int main()
 {
-    long n;
-    cin>>n;
+    long n; cin>>n;
     cout<<n;
     while(n>1)
     {
