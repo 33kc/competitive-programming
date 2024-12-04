@@ -144,6 +144,8 @@ my competitive programming journey (yes)
 - [] Segment tree  
 - [] Lazy propagation on segment trees  
 
+Apart from this,
+![Roadmap For DSA](roadmap.png)
 
 
 ## Stats
