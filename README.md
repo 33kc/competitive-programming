@@ -3,7 +3,7 @@ my competitive programming journey (yes)
 <div align="center">
   <a href="#roadmap-for-cp" style="text-decoration: none;">
     <button style="background-color: #4CAF50; color: white; padding: 15px 40px; font-size: 16px; text-align: center; border: none; border-radius: 8px; cursor: pointer; display: inline-block; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
-      ROADMAP FOR CP
+      ROADMAP FOR COMPETITIVE PROGRAMMING
     </button> <br> <Br>
   </a>
   <a href="#stats" style="text-decoration: none;">
@@ -151,10 +151,17 @@ Apart from this, <Br> <Br> <Br> <br>
 ## Stats
 <a id="stats"></a>
 CodeChef:
-- Rating as of (4/12/24) : (have to update because today was a contest)
+- Rating as of (4/12/24) : 1302
 - Contests Attended : 6
 - Div : 4 (on the edge to div 3)
 
 CodeForces:
 - Rating as of (4/12/24) : 369 (barely do cf, attended one contest, solved div 3 A and left)
 - Contests : 1
+
+When did I start?
+- Got a roadmap for competitive programming on (15/10/24)
+- Started officially grinding competitive programming on (12/10/24)
+
+
+haven't done much but just gotta stay dedicated and trust the progress
