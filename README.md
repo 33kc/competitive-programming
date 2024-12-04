@@ -153,6 +153,7 @@ Apart from this, <Br> <Br> <Br> <br>
 CodeChef:
 - Rating as of (4/12/24) : (have to update because today was a contest)
 - Contests Attended : 6
+- Div : 4 (on the edge to div 3)
 
 CodeForces:
 - Rating as of (4/12/24) : 369 (barely do cf, attended one contest, solved div 3 A and left)
