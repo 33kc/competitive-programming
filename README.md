@@ -33,7 +33,7 @@ my competitive programming journey (yes)
 - [1] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
 - [] Linear Diophantine equation  
 - [] Checking prime in \(\sqrt{n}\) complexity  
-- [1] Sieve of Eratosthenes  
+- [✅] Sieve of Eratosthenes  
 - [] Euler's Totient Function  
 - [1] Fermat's Little Theorem  
 
