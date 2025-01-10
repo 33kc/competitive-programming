@@ -31,7 +31,7 @@ my competitive programming journey (yes)
 
 - [1] Binary search  
 - [1] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
-- [] Linear Diophantine equation  
+- [1] Linear Diophantine equation  
 - [✅] Checking prime in \(\sqrt{n}\) complexity  
 - [✅] Sieve of Eratosthenes  
 - [✅] Euler's Totient Function  
