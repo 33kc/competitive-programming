@@ -45,7 +45,7 @@ my competitive programming journey (yes)
 - [] Modular arithmetic  
 - [] Modular inverse of a number  
 - [] Modular exponentiation  
-- [] Chinese Remainder Theorem (I DO NOT UNDERSTAND THIS, HELP!)  
+- [] Chinese Remainder Theorem
 - [] Finding \(nCr/nPr\) for queries (constant time)  
 - [] Inclusion-exclusion principle (combinatorics problem)  
 
@@ -68,7 +68,7 @@ my competitive programming journey (yes)
 ### After Learning Recursion
 
 - [] In-the-middle algorithms: Solve problems related to it  
-- [] Divide and conquer problems (Codeforces has a lot of nice ones)  
+- [] Divide and conquer problems (Codeforces/leetcode)  
 - [] Next greater element and next smaller element using a stack  
 - [] More problems related to parentheses  
 - [] Largest rectangular area in a histogram  
@@ -78,7 +78,7 @@ my competitive programming journey (yes)
 
 ### String Algorithms
 
-*(A bit advanced, so just do when you feel like it [my personal guess <- I will never finish this])*
+*(A bit advanced, so ill do this when I'm bored)*
 
 - [] Rolling hash functions on strings  
 - [] Rabin-Karp algorithm  
