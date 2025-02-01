@@ -35,7 +35,7 @@ my competitive programming journey (yes)
 - [✅] Checking prime in \(\sqrt{n}\) complexity  
 - [✅] Sieve of Eratosthenes  
 - [✅] Euler's Totient Function  
-- [1] Fermat's Little Theorem  
+- [✅] Fermat's Little Theorem  
 
 ---
 
