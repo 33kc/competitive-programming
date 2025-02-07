@@ -91,7 +91,7 @@ my competitive programming journey (yes)
 
 ### Tree Algorithms
 
-- [] Graph representation  
+- [✅] Graph representation  
 - [] DFS/BFS traversal in graph/tree  
 - [] Basic stuff (diameter, height of tree, level of tree, etc.)  
 - [] Euler tour of a tree  
