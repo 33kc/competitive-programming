@@ -1,1 +1,8 @@
+
+for competitive programming:
 cses.fi - `https://cses.fi/book/book.pdf`
+
+
+math books (not cp related tho):
+IAS num theory : https://www.ias.ac.in/public/Resources/Other_Publications/e-Publications/004/Number_Theory_Combinatorics.pdf
+MONT by Aditya Khurmi : https://preparamates.com/wp-content/uploads/2023/09/Modern-Olympiad-Number-Theory-www.preparamates.com_.pdf
