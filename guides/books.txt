@@ -7,3 +7,7 @@ math books (not cp related tho):
 IAS num theory : https://www.ias.ac.in/public/Resources/Other_Publications/e-Publications/004/Number_Theory_Combinatorics.pdf
 MONT by Aditya Khurmi : https://preparamates.com/wp-content/uploads/2023/09/Modern-Olympiad-Number-Theory-www.preparamates.com_.pdf
 Analytic num theory : https://drive.google.com/file/d/16jOrbvpWzHWnyY7mXn8EVN-Q7Bo84uBx/view
+
+Calculus in math : 
+MIT Calculus : https://math.mit.edu/~djk/calculus_beginners/
+Calculus made easy (silvanus thompson) : https://www.gutenberg.org/files/33283/33283-pdf.pdf
