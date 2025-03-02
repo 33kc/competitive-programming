@@ -62,7 +62,7 @@ my competitive programming journey (yes)
 
 - [1] Sorting algorithms (bubble, selection, insertion)  
 - [] Solve a heck of a ton of problems on these to get familiar  
-- [] Problems related to the two-pointer approach  
+- [1] Problems related to the two-pointer approach  
 - [1] Bit manipulation (lshift, rshift, xor, or, and, set bit, MSB, etc.)  
 - [] Power set of a given array or string using bit  
 - [] Number of subarrays with XOR as zero (not an algorithm, but interesting problem)  
