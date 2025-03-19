@@ -158,8 +158,8 @@ Apart from this, <Br> <Br> <Br> <br>
 ## Stats
 <a id="stats"></a>
 CodeChef:
-- Rating as of (4/12/24) : 1302
-- Contests Attended : 6
+- Rating as of (19/3/24) : 1367
+- Contests Attended : 7
 - Div : 4 (on the edge to div 3)
 
 CodeForces:
