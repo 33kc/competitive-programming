@@ -158,9 +158,9 @@ Apart from this, <Br> <Br> <Br> <br>
 ## Stats
 <a id="stats"></a>
 CodeChef:
-- Rating as of (19/3/24) : 1367
+- Rating as of (19/3/24) : 1375
 - Contests Attended : 7
-- Div : 4 (on the edge to div 3)
+- Div : 4 (25 elo away from div 3!!)
 
 CodeForces:
 - Rating as of (4/12/24) : 369 (barely do cf, attended one contest, solved div 3 A and left)
