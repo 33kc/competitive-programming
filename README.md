@@ -1,11 +1,5 @@
 
-
-
-## UPDATE:  TAKING A FEW MONTHS BREAK
-
-
-
-my competitive programming journey (yes)
+my competitive programming journey (why am i improving so slow sob emoji)
 
 <div align="center">
   <a href="#roadmap-for-cp" style="text-decoration: none;">
@@ -158,9 +152,10 @@ Apart from this, <Br> <Br> <Br> <br>
 ## Stats
 <a id="stats"></a>
 CodeChef:
-- Rating as of (19/3/24) : 1375
-- Contests Attended : 7
-- Div : 4 (25 elo away from div 3!!)
+- Rating as of (16/4/24) : 1345 (not adjusted)
+- Contests Attended : 8
+- Div : 4
+- Highest Rating : 1375 
 
 CodeForces:
 - Rating as of (4/12/24) : 369 (barely do cf, attended one contest, solved div 3 A and left)
