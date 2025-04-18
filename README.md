@@ -24,7 +24,7 @@ my competitive programming journey (why am i improving so slow sob emoji)
 - [✅] Palindrome and other numbers (for basic number problems)  
 - [1] Hashing problems (frequency counting)  
 - [✅] Prefix sum problems (1D, 2D)  
-- [1] Sliding window technique {better understanding needed}  
+- [1] Sliding window technique {application needed}  
 
 ---
 
