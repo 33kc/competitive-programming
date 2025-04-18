@@ -1,5 +1,5 @@
 
-my competitive programming journey (why am i improving so slow sob emoji)
+cp
 
 <div align="center">
   <a href="#roadmap-for-cp" style="text-decoration: none;">
