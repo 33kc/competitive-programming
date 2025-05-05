@@ -1,169 +1,180 @@
+doing everything all over again
 
-cp
+## I. Basic Techniques
 
-<div align="center">
-  <a href="#roadmap-for-cp" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 15px 40px; font-size: 16px; text-align: center; border: none; border-radius: 8px; cursor: pointer; display: inline-block; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
-      ROADMAP FOR COMPETITIVE PROGRAMMING
-    </button> <br> <Br>
-  </a>
-  <a href="#stats" style="text-decoration: none;">
-    <button style="background-color: #008CBA; color: white; padding: 15px 40px; font-size: 16px; text-align: center; border: none; border-radius: 8px; cursor: pointer; display: inline-block; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
-      STATS
-    </button>
-  </a>
-</div>
+### 1. Introduction
+- 1.1 Input and output
+- 1.2 Working with numbers
+- 1.3 Shortening code
+- 1.4 Mathematics
+- 1.5 Contests and resources
 
-## Roadmap for CP
-<a id="roadmap-for-cp"></a>
-### Starting
+### 2. Time Complexity
+- 2.1 Calculation rules
+- 2.2 Complexity classes
+- 2.3 Estimating efficiency
+- 2.4 Maximum subarray sum
 
-- [1] Pattern printing problems  
-- [1] Time complexity analysis  
-- [1] Linear search / circular array representation  
-- [✅] Palindrome and other numbers (for basic number problems)  
-- [1] Hashing problems (frequency counting)  
-- [✅] Prefix sum problems (1D, 2D)  
-- [1] Sliding window technique {application needed}  
+### 3. Sorting
+- 3.1 Sorting theory
+- 3.2 Sorting in C++
+- 3.3 Binary search
 
----
+### 4. Data Structures
+- 4.1 Dynamic arrays
+- 4.2 Set structures
+- 4.3 Map structures
+- 4.4 Iterators and ranges
+- 4.5 Other structures
+- 4.6 Comparison to sorting
 
-### Basics of Number Theory
+### 5. Complete Search
+- 5.1 Generating subsets
+- 5.2 Generating permutations
+- 5.3 Backtracking
+- 5.4 Pruning the search
+- 5.5 Meet in the middle
 
-- [1] Binary search  
-- [1] GCD of two numbers in logarithmic time (Euclidean and extended Euclidean algorithm)  
-- [1] Linear Diophantine equation  
-- [✅] Checking prime in \(\sqrt{n}\) complexity  
-- [✅] Sieve of Eratosthenes  
-- [✅] Euler's Totient Function  
-- [✅] Fermat's Little Theorem  
+### 6. Greedy Algorithms
+- 6.1 Coin problem
+- 6.2 Scheduling
+- 6.3 Tasks and deadlines
+- 6.4 Minimizing sums
+- 6.5 Data compression
 
----
+### 7. Dynamic Programming
+- 7.1 Introduction
+- 7.2 Longest increasing subsequence
+- 7.3 Edit distance
+- 7.4 Counting tilings
+- 7.5 Paths in a grid
+- 7.6 Dynamic programming optimization
+- 7.7 Bitmask dynamic programming
+- 7.8 DP and complete search
 
-### More Advanced Topics
+## II. Data Structures
 
-- [] Finding \(x^n\) in \(\log[n]\)  
-- [] Modular arithmetic  
-- [] Modular inverse of a number  
-- [] Modular exponentiation  
-- [] Chinese Remainder Theorem
-- [] Finding \(nCr/nPr\) for queries (constant time)  
-- [] Inclusion-exclusion principle (combinatorics problem)  
+### 8. Range Queries
+- 8.1 Prefix sums
+- 8.2 Binary indexed tree
+- 8.3 Segment tree
+- 8.4 Range minimum queries
+- 8.5 2D range queries
 
----
+### 9. Tree Algorithms
+- 9.1 Depth-first search
+- 9.2 Breadth-first search
+- 9.3 Tree traversal
+- 9.4 Lowest common ancestor
+- 9.5 Rerooting technique
+- 9.6 Counting paths in a tree
 
-### General Topics
+### 10. Hashing
+- 10.1 Hash functions
+- 10.2 String hashing
+- 10.3 Collisions
+- 10.4 Polynomial hashing
+- 10.5 Applications
 
-- [1] Sorting algorithms (bubble, selection, insertion)  
-- [] Solve a heck of a ton of problems on these to get familiar  
-- [1] Problems related to the two-pointer approach  
-- [1] Bit manipulation (lshift, rshift, xor, or, and, set bit, MSB, etc.)  
-- [] Power set of a given array or string using bit  
-- [] Number of subarrays with XOR as zero (not an algorithm, but interesting problem)  
-- [] Problems related to greedy algorithm 
-- [] Kadane's algorithm  
-- [1] Learn recursion  
+### 11. Geometry
+- 11.1 Geometry basics
+- 11.2 Line intersection
+- 11.3 Polygon area
+- 11.4 Point in polygon
+- 11.5 Convex hull
+- 11.6 Sweep line
+- 11.7 Closest pair
 
----
+## III. Graph Algorithms
 
-### After Learning Recursion
+### 12. Graph Representation
+- 12.1 Adjacency lists
+- 12.2 Adjacency matrix
+- 12.3 Edge list
 
-- [] In-the-middle algorithms: Solve problems related to it  
-- [] Divide and conquer problems (Codeforces/leetcode)  
-- [] Next greater element and next smaller element using a stack  
-- [] More problems related to parentheses  
-- [] Largest rectangular area in a histogram  
-- [] Solve more problems related to heap priority queue  
+### 13. Graph Traversal
+- 13.1 Depth-first search
+- 13.2 Breadth-first search
+- 13.3 Connected components
+- 13.4 Cycles and bipartite graphs
 
----
+### 14. Shortest Paths
+- 14.1 Dijkstra’s algorithm
+- 14.2 Bellman-Ford algorithm
+- 14.3 Floyd-Warshall algorithm
+- 14.4 0-1 BFS
+- 14.5 Grid paths
 
-### String Algorithms
+### 15. Tree Algorithms
+- 15.1 Tree basics
+- 15.2 Tree traversal
+- 15.3 Lowest common ancestor
+- 15.4 Distance queries
+- 15.5 Tree isomorphism
 
-*(A bit advanced, so ill do this when I'm bored)*
+### 16. Topological Sorting
+- 16.1 Theory
+- 16.2 Algorithms
+- 16.3 Cycle detection
+- 16.4 Applications
 
-- [] Rolling hash functions on strings  
-- [] Rabin-Karp algorithm  
-- [] Prefix function  
-- [] KMP algorithm  
-- [] Z-function  
-- [] Manacher's algorithm  
+### 17. Strong Connectivity
+- 17.1 Strongly connected components
+- 17.2 Kosaraju’s algorithm
+- 17.3 Applications
 
----
+### 18. Bridges and Articulation Points
+- 18.1 Bridges
+- 18.2 Articulation points
+- 18.3 2-edge and 2-vertex connectivity
 
-### Tree Algorithms
+### 19. Network Flow
+- 19.1 Flow networks
+- 19.2 Ford-Fulkerson algorithm
+- 19.3 Edmonds-Karp algorithm
+- 19.4 Dinic’s algorithm
+- 19.5 Minimum cut
 
-- [✅] Graph representation  
-- [] DFS/BFS traversal in graph/tree  
-- [] Basic stuff (diameter, height of tree, level of tree, etc.)  
-- [] Euler tour of a tree  
-- [] Finding LCA using Euler tour and binary lifting  
-- [] Distance between two nodes  
-- [] Subtree problems (SPOJ)  
+### 20. Matching
+- 20.1 Bipartite graphs
+- 20.2 Maximum matching
+- 20.3 Hopcroft-Karp algorithm
+- 20.4 General graphs
 
----
+## IV. Additional Topics
 
-### Graph Algorithms
+### 21. Number Theory
+- 21.1 Prime numbers
+- 21.2 Sieve of Eratosthenes
+- 21.3 Modular arithmetic
+- 21.4 Greatest common divisor
+- 21.5 Extended Euclidean algorithm
+- 21.6 Modular inverse
+- 21.7 Diophantine equations
+- 21.8 Euler’s totient function
+- 21.9 Discrete logarithm
 
-- [] Connected components  
-- [] Topological sort  
-- [] Cycle detection in graphs  
-- [] Bipartite check in graphs  
-- [] SCC using Kosaraju’s algorithm  
-- [] Dijkstra’s algorithm  
-- [] Bellman-Ford algorithm  
-- [] Bridges in graphs  
-- [] Articulation point in a graph  
-- [] Minimum spanning tree using Kruskal’s algorithm  
-- [] Prim’s algorithm  
-- [] 0/1 BFS (a big savior)  
-- [] Learn finding bridges online  
+### 22. Combinatorics
+- 22.1 Combinations and permutations
+- 22.2 Binomial coefficients
+- 22.3 Catalan numbers
+- 22.4 Inclusion-exclusion principle
+- 22.5 Stirling numbers
 
----
+### 23. Game Theory
+- 23.1 Grundy numbers
+- 23.2 Sprague-Grundy theorem
+- 23.3 Nim game
 
-### Dynamic Programming
+### 24. Bit Manipulation
+- 24.1 Basic operations
+- 24.2 Bit hacks
+- 24.3 Applications
 
-- [] Solve all standard problems on DP from GFG  
-- [] Solve AtCoder educational contests on dynamic programming  
-- [] Solve problems from SPOJ  
-- [] Google dynamic programming practice problems on Codeforces  
-- [] Understand how to write recurrence for Digit DP (digit dynamic programming) and solve problems  
-- [] Read about DP with bitmasks and solve problems  
-- [] DP on trees  
-- [] SOS DP  
-
----
-
-### Range Query Algorithms
-
-- [] Sparse table  
-- [] Fenwick tree and binary lifting on Fenwick tree, solve problems  
-- [] Matrix exponentiation (problems)  
-- [] Sqrt decomposition technique  
-- [] Update and query operations  
-- [] Mo's algorithm  
-- [] Mo's algorithm on trees  
-- [] Segment tree  
-- [] Lazy propagation on segment trees  
-
-Apart from this, <Br> <Br> <Br> <br>
-![Roadmap For DSA](roadmap.png)
-
-
-## Stats
-<a id="stats"></a>
-CodeChef:
-- Rating as of (16/4/24) : 1345 (not adjusted)
-- Contests Attended : 8
-- Div : 4
-- Highest Rating : 1375 
-
-CodeForces:
-- Rating as of (4/12/24) : 369 (barely do cf, attended one contest, solved div 3 A and left)
-- Contests : 1
-
-When did I start?
-- Got a roadmap for competitive programming on (15/10/24)
-- Started officially grinding competitive programming on (12/10/24)
-
-
-haven't done much but just gotta stay dedicated and trust the progress
+### 25. Advanced Techniques
+- 25.1 Segment tree beats
+- 25.2 Mo’s algorithm
+- 25.3 Centroid decomposition
+- 25.4 Heavy-light decomposition
+- 25.5 Suffix arrays
+- 25.6 Suffix automaton
